@@ -1,25 +1,17 @@
 <div align="center">
 
-# 🌊 Divya Keren Prakash
+# 🌊 dk201105
 ### Computer Science Student | Technical Builder | Creative Founder
 
-Building at the intersection of logical architecture and creative business execution. 
 
-[@divya-keren-prakash](https://linkedin.com/in/divya-keren-prakash) · [dkjee2023@gmail.com](mailto:dkjee2023@gmail.com)
-
----
-
-![Commits](https://github-readme-stats.vercel.app/api?username=dk201105&theme=dark&hide_border=true&include_all_commits=true&count_private=false&show_icons=true)
+[@divya-keren-prakash](https://linkedin.com/in/divya-keren-prakash)]
 
 </div>
 
 ## 🧬 About Me
-I specialize in shipping code quickly by pairing technical logic with AI-assisted workflows. My background spans building database-driven applications to researching niche cybersecurity spaces. Beyond the screen, I channel my execution focus into managing a creative studio and an anonymous publishing house.
 
 *   🔭 **Currently Focus:** Refactoring legacy architectures into modern, responsive Flask frameworks.
 *   🛡️ **Research & Interests:** Neuro-security (Neural Interface Security/Brainjacking), secure software design, and AI-assisted engineering.
-*   ☕ **Core Philosophy:** Logic handles the backend; creativity builds the frontend.
-
 ---
 
 ## 💻 Tech Stack & Tools
@@ -41,11 +33,6 @@ I specialize in shipping code quickly by pairing technical logic with AI-assiste
     *   *Transformed* a legacy Python codebase into a modern, nimble web application utilizing a Flask backend and dynamic HTML/CSS views. Used rapid AI prototyping to move from static logic to full deployment in record time.
 *   **Neural Interface Security Research**
     *   *Presented* technical insights on emerging threat vectors like "Brainjacking" at academic conferences, analyzing vulnerabilities in upcoming neural interfaces.
-
-### **Creative Execution**
-*   **The Elysian Artist** — *Founder* | Managing production pipelines, dynamic inventory, and customer-facing art asset distribution.
-*   **Kindred Tales Publishing** — *Founder* | Overseeing editorial design and a unique publishing framework dedicated entirely to anonymous authors.
-
 ---
 
 ## 📊 Developer Ecosystem
