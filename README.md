@@ -4,7 +4,7 @@
 ### Computer Science Student | Technical Builder 
 
 
-[@divya-keren-prakash](https://linkedin.com/in/divya-keren-prakash)]
+[@divya-keren-prakash](https://linkedin.com/in/divya-keren-prakash)
 
 </div>
 
