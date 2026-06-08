@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🌊 dk201105
-### Computer Science Student | Technical Builder | Creative Founder
+### Computer Science Student | Technical Builder 
 
 
 [@divya-keren-prakash](https://linkedin.com/in/divya-keren-prakash)]
