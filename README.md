@@ -32,7 +32,7 @@
 ### **Security**
 *   **[30 Days of Kali Linux](https://github.com/dk201105/30DaysofKaliLinux)**
     *   *Building* a documented home lab: host discovery and service enumeration against Metasploitable2, DNS/MX/TXT/DKIM reconnaissance against live domains, exploit research cross-referenced against Exploit-DB.
-*   **TryHackMe — Advent of Cyber 2025**
+*   **[TryHackMe — Advent of Cyber 2025](https://www.linkedin.com/posts/divya-keren-prakash_try-hack-me-certificate-ugcPost-7417126159651491841-3zgu/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE3sg7YBsXRXFfPG5VajFIf8Zadiao3DJfY)**
     *   *Completed* all 24 challenges, covering web exploitation, log analysis, and incident response fundamentals.
 *   **Cybersecurity Job Scraper**
     *   *Built* a Python tool using the DuckDuckGo search package to surface relevant entry-level security openings.
